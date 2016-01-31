@@ -1,0 +1,8 @@
+[package]
+name = "test_util"
+version = "0.1.0"
+authors = ["samdoiron <samdoiron@fastmail.fm>"]
+
+[dependencies]
+rand = "0.3.11"
+rustc-serialize = "0.3"
